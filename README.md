@@ -64,3 +64,6 @@
 ---
 
 *"Turning ideas into reliable embedded systems through firmware and hardware design."*
+
+machi are you ready
+
